@@ -1,8 +1,8 @@
-# DSA Interview Prep — Complete Pattern-Based Guide
+# DSA Prep — Complete Pattern-Based Guide
 
 **20 topics | 40,000+ lines | 300+ LeetCode problems | Java solutions | Company tags**
 
-A comprehensive, pattern-based DSA preparation guide for FAANG coding interviews. Each topic includes core concepts, ELI5 explanations, reusable Java templates, real-world applications, curated LeetCode problems with company tags, and practice roadmaps.
+A comprehensive, pattern-based DSA preparation guide. Each topic includes core concepts, ELI5 explanations, reusable Java templates, real-world applications, curated LeetCode problems with company tags, and practice roadmaps.
 
 ## Topics
 
